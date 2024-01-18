@@ -1,0 +1,12 @@
+acc = x.create_account('shahriar','labibshahriar@gmail.com','badda','Savings')
+# acc2 = x.create_account('shoily','snighdashoily@gmail.com','badda','Current')
+# x.deposit(acc,1000)
+# x.check_balance(acc)
+# x.withdrawl(acc,200)
+# x.withdrawl(acc,100)
+# x.transfer_amount(acc,acc2,50)
+# x.take_loan(acc,5000)
+# x.take_loan(acc,60000)
+# x.take_loan(acc,500)
+
+# x.transactions_history(acc)
